@@ -40,3 +40,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.topo {
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+  height:20vh;
+}
+
+.sair {
+  font-size: 10px;
+}
+
+.corpo {
+  background-color: yellow;
+  height:80vh;
+}
